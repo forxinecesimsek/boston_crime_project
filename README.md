@@ -104,3 +104,4 @@ The important crimes (label) are listed below:
 ![Alt Text](https://github.com/forxinecesimsek/boston_crime_project/blob/master/streamlit_demo/Ece-Simsek-streamlit-demovideo.gif)
 
 
+[For More Detail, Please Go My Capstone Project Presentation](https://docs.google.com/presentation/d/1eubSge6yBwh2CxtIA_QKyClYNQGmiijrfpHY-nl8L2o/edit#slide=id.g9a79991ba5_0_92)
