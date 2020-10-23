@@ -1,14 +1,13 @@
-# UPSchool Data Science Course - Time Series and Regression
+# Boston Crime Analysis - Streamlit Demo
 
-This repository contains material from Time Series week of UPSchool Data Science Course. Contents are:
+This folder contains material from Boston Crime Analysis Capstone Project of UPSchool. Contents are:
 
-* Day 1: Introduction to Time Series and statistical methods for analysis/forecasting. `notebooks/1-intro.ipynb`
-* Day 2: Linear Regression with OLS method. Extension to basis functions and polynomial features. Presented as Streamlit demo.
-* Day 3: Live coding session on Istanbul Dam Water Reserve Data. `notebooks/2-baraj.ipynb`
+* Page 1 : Welcome Page to explain project outline
+* Page 2 : Exploratory Data Analysis Interactive Graphs and Maps
+* Page 3 : Clustering Analysis to determine best locations for police stations
 
-### Linear Regression and Time Series Streamlit Demo
 
-This demo is a part of Time Series Lectures from UPSchool Data Science Course.
+This demo is a part of Boston Crime Analysis.
 
 `pip install -r requirements.txt`
 
@@ -22,6 +21,5 @@ in the root directory.
 
 ----
 
-[Kaggle](https://www.kaggle.com/uciml/electric-power-consumption-data-set) link to dataset in ```data```directory used in final part. 
+[Kaggle](https://www.kaggle.com/ankkur13/boston-crime-data) link to dataset.
 
-![run](resources/st_run.gif)
