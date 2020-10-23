@@ -7,7 +7,7 @@ This folder contains material from Boston Crime Analysis Capstone Project of UPS
 * Page 3 : Clustering Analysis to determine best locations for police stations
 
 
-This demo is a part of Boston Crime Analysis.
+This demo is a part of Boston Crime Analysis. The required libraries are in txt file below:
 
 `pip install -r requirements.txt`
 
