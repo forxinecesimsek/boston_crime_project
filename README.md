@@ -83,7 +83,7 @@ The important crimes (label) are listed below:
 
 - Other Burglary Commercial Burglary
 
-# ML Algortihms Used
+# ML Algorithms Used
 
 - __XGBoost__
 - __LightGBM__
